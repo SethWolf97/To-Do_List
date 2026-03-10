@@ -1,1 +1,3 @@
-A CLI to-do list.
+# To-Do List
+
+File out a to-do list. Will display your list back to you.
